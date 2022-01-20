@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasser22269&label=Profile%20views&color=0e75b6&style=flat" alt="yasser22269" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasser22269" alt="yasser22269" /></a> </p>
-
-- 🌱 I’m currently learning **Angular**
-
 - 👨‍💻 All of my projects are available at [https://portfolioyasser.netlify.app/index.html](https://portfolioyasser.netlify.app/index.html)
-
-- 💬 Ask me about **Front End Or Back End Web**
 
 - 📫 How to reach me **yasser.m22291@gmail.com**
 
