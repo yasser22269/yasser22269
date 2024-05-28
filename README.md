@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasser22269&label=Profile%20views&color=0e75b6&style=flat" alt="yasser22269" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolioyasser.netlify.app/index.html](https://portfolioyasser.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [https://yasser22269.github.io/portfolio/index.html](https://yasser22269.github.io/portfolio/index.html)
 
 - 📫 How to reach me **yasser.m22291@gmail.com**
 
